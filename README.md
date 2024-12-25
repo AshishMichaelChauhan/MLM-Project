@@ -78,5 +78,5 @@ The dataset includes the following columns:
 
 ## Authors
 
-- Shefali Dhingra
-- Ashish Michael Chauhan
+- Shefali Dhingra (055043)
+- Ashish Michael Chauhan (055007)
